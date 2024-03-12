@@ -1,6 +1,6 @@
-package coursework.documentation;
+package coursework.fileDescription;
 
-import coursework.path.CheckingPath;
+import coursework.fileDescription.path.CheckingPath;
 
 import java.io.File;
 import java.util.LinkedList;

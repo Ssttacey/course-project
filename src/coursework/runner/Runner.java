@@ -1,9 +1,9 @@
 package coursework.runner;
 
-import coursework.documentation.Check;
-import coursework.path.EnterThePath;
-import coursework.documentation.Invoice;
-import coursework.documentation.Order;
+import coursework.fileDescription.Check;
+import coursework.fileDescription.path.EnterThePath;
+import coursework.fileDescription.Invoice;
+import coursework.fileDescription.Order;
 import coursework.entrance.Entrance;
 
 

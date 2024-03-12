@@ -1,4 +1,4 @@
-package coursework.path;
+package coursework.fileDescription.path;
 
 import java.io.File;
 import java.util.Scanner;

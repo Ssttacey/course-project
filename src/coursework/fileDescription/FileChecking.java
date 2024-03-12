@@ -1,4 +1,4 @@
-package coursework.documentation;
+package coursework.fileDescription;
 
 import java.io.File;
 import java.util.LinkedList;
