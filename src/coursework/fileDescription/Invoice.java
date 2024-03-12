@@ -10,13 +10,13 @@ import java.util.Objects;
 
 public class Invoice{
 
-    public static void openingInvoices(String path) throws IOException {
+    public static LinkedList<File> openingInvoices(String path) throws IOException {
         String wayInvoices = path + "//invoices";
         File invoice = new File(wayInvoices);
+        LinkedList<File>trueInvoices=new LinkedList<>();
         if (CheckingPath.checkingForFolders(invoice, "invoices")) {
 
             File[] invoices = invoice.listFiles();
-            LinkedList<File>trueInvoices=new LinkedList<>();
             for (File oneInvoice: Objects.requireNonNull(invoices)){
                 if (FileChecking.fileIsTrue(oneInvoice)){
                     trueInvoices.add(oneInvoice);
@@ -24,7 +24,7 @@ public class Invoice{
                     InvalidFiles.invalidFiles(oneInvoice);
                 }
             }
-            System.out.println(trueInvoices);
         }
+        return trueInvoices;
     }
 }

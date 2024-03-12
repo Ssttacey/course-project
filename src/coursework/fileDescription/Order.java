@@ -10,13 +10,13 @@ import java.util.Objects;
 
 public class Order{
 
-    public static void openingOrders(String path) throws IOException {
+    public static LinkedList<File> openingOrders(String path) throws IOException {
         String wayOrders = path + "//orders";
         File order = new File(wayOrders);
+        LinkedList<File>trueOrders=new LinkedList<>();
         if (CheckingPath.checkingForFolders(order, "Orders")) {
 
             File[] orders = order.listFiles();
-            LinkedList<File>trueOrders=new LinkedList<>();
             for (File oneOrder: Objects.requireNonNull(orders)){
                 if (FileChecking.fileIsTrue(oneOrder)){
                     trueOrders.add(oneOrder);
@@ -24,7 +24,7 @@ public class Order{
                     InvalidFiles.invalidFiles(oneOrder);
                 }
             }
-            System.out.println(trueOrders);
         }
+        return trueOrders;
     }
 }

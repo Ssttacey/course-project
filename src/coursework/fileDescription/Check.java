@@ -11,13 +11,13 @@ import java.util.Objects;
 
 public class Check {
 
-    public static void openingChecks(String path) throws IOException {
+    public static LinkedList<File> openingChecks(String path) throws IOException {
         String wayChecks =path+"//checks";
         File check = new File(wayChecks);
+        LinkedList<File>trueChecks=new LinkedList<>();
         if(CheckingPath.checkingForFolders(check, "checks")){
 
             File[]checks=check.listFiles();
-            LinkedList<File>trueChecks=new LinkedList<>();
             for (File oneCheck: Objects.requireNonNull(checks)){
                 if (FileChecking.fileIsTrue(oneCheck)){
                     trueChecks.add(oneCheck);
@@ -25,7 +25,9 @@ public class Check {
                     InvalidFiles.invalidFiles(oneCheck);
                 }
             }
-            System.out.println(trueChecks);
+
         }
+        //Добавить что будет, если массив равен null
+        return trueChecks;
     }
 }
