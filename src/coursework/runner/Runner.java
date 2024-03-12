@@ -6,9 +6,11 @@ import coursework.fileDescription.Invoice;
 import coursework.fileDescription.Order;
 import coursework.entrance.Entrance;
 
+import java.io.IOException;
+
 
 public class Runner {
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException {
         Entrance.loginAndPassword();
         String path=EnterThePath.enterThePath();
         Invoice.openingInvoices(path);

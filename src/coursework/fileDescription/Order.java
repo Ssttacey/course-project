@@ -1,22 +1,30 @@
 package coursework.fileDescription;
 
 import coursework.fileDescription.path.CheckingPath;
+import coursework.invalidFiles.InvalidFiles;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.LinkedList;
+import java.util.Objects;
 
 public class Order{
 
-    public static void openingOrders(String path) {
+    public static void openingOrders(String path) throws IOException {
         String wayOrders = path + "//orders";
         File order = new File(wayOrders);
         if (CheckingPath.checkingForFolders(order, "Orders")) {
 
             File[] orders = order.listFiles();
-            LinkedList<File> fileCheck=FileChecking.fileTypeCheck(orders);
-            LinkedList<File>fileCheck1=FileChecking.fileYearCheck(fileCheck);
-            LinkedList<File>fileCheck2=FileChecking.fileStructureCheck(fileCheck1);
-            System.out.println(fileCheck2);
+            LinkedList<File>trueOrders=new LinkedList<>();
+            for (File oneOrder: Objects.requireNonNull(orders)){
+                if (FileChecking.fileIsTrue(oneOrder)){
+                    trueOrders.add(oneOrder);
+                }else {
+                    InvalidFiles.invalidFiles(oneOrder);
+                }
+            }
+            System.out.println(trueOrders);
         }
     }
 }
