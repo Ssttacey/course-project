@@ -27,7 +27,6 @@ public class Check {
             }
 
         }
-        //Добавить что будет, если массив равен null
         return trueChecks;
     }
 }
