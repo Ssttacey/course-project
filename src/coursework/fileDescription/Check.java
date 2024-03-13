@@ -17,15 +17,19 @@ public class Check {
         LinkedList<File>trueChecks=new LinkedList<>();
         if(CheckingPath.checkingForFolders(check, "checks")){
 
-            File[]checks=check.listFiles();
-            for (File oneCheck: Objects.requireNonNull(checks)){
-                if (FileChecking.fileIsTrue(oneCheck)){
-                    trueChecks.add(oneCheck);
-                }else {
-                    InvalidFiles.invalidFiles(oneCheck);
-                }
-            }
+            try {
+                File[] checks = check.listFiles();
 
+                for (File oneCheck : Objects.requireNonNull(checks)) {
+                    if (FileChecking.fileIsTrue(oneCheck)) {
+                        trueChecks.add(oneCheck);
+                    } else {
+                        InvalidFiles.invalidFiles(oneCheck);
+                    }
+                }
+            } catch (NullPointerException checks) {
+            throw new IOException();
+        }
         }
         return trueChecks;
     }

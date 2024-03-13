@@ -16,14 +16,20 @@ public class Invoice{
         LinkedList<File>trueInvoices=new LinkedList<>();
         if (CheckingPath.checkingForFolders(invoice, "invoices")) {
 
-            File[] invoices = invoice.listFiles();
-            for (File oneInvoice: Objects.requireNonNull(invoices)){
-                if (FileChecking.fileIsTrue(oneInvoice)){
-                    trueInvoices.add(oneInvoice);
-                }else {
-                    InvalidFiles.invalidFiles(oneInvoice);
+            try {
+                File[] invoices = invoice.listFiles();
+
+
+                for (File oneInvoice : Objects.requireNonNull(invoices)) {
+                    if (FileChecking.fileIsTrue(oneInvoice)) {
+                        trueInvoices.add(oneInvoice);
+                    } else {
+                        InvalidFiles.invalidFiles(oneInvoice);
+                    }
                 }
-            }
+            } catch (NullPointerException invoices) {
+            throw new IOException();
+        }
         }
         return trueInvoices;
     }

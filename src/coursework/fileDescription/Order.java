@@ -16,13 +16,17 @@ public class Order{
         LinkedList<File>trueOrders=new LinkedList<>();
         if (CheckingPath.checkingForFolders(order, "Orders")) {
 
-            File[] orders = order.listFiles();
-            for (File oneOrder: Objects.requireNonNull(orders)){
-                if (FileChecking.fileIsTrue(oneOrder)){
-                    trueOrders.add(oneOrder);
-                }else {
-                    InvalidFiles.invalidFiles(oneOrder);
+            try {
+                File[] orders = order.listFiles();
+                for (File oneOrder : Objects.requireNonNull(orders)) {
+                    if (FileChecking.fileIsTrue(oneOrder)) {
+                        trueOrders.add(oneOrder);
+                    } else {
+                        InvalidFiles.invalidFiles(oneOrder);
+                    }
                 }
+            } catch (NullPointerException orders) {
+                throw new IOException();
             }
         }
         return trueOrders;
