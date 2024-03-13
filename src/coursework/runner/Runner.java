@@ -1,19 +1,17 @@
 package coursework.runner;
 
-import coursework.fileDescription.Order;
+import coursework.entrance.Entrance;
 import coursework.fileDescription.path.EnterThePath;
-import coursework.statistics.Statistics;
+import coursework.statistics.FileWithStatistic;
 
 import java.io.IOException;
 
 
 public class Runner {
     public static void main(String[] args) throws IOException {
-        //Entrance.loginAndPassword();
-        String path= EnterThePath.enterThePath();
-        Statistics.sumChecks(path);
-        System.out.println();
-        Statistics.sumInvoices(path);
-        Order.openingOrders(path);
+        if(Entrance.loginAndPassword()) {
+            String path = EnterThePath.enterThePath();
+            FileWithStatistic.fileWithStatistic(path);
+        }
     }
 }

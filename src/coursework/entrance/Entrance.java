@@ -12,20 +12,30 @@ public class Entrance {
         return false;
     }
 
-    public static void loginAndPassword() {
+    public static boolean loginAndPassword(){
         Scanner scanner = new Scanner(System.in);
-        byte x=0;
-        do {
-            System.out.print("Login: ");
-            String login = scanner.next();
-            System.out.print("Password: ");
-            String password = scanner.next();
-            if (inputValidation(login, password)) {
-                System.out.println("Login to the program is complete");
-                x=1;
-            } else {
-                System.out.println("wrong login or password");
+        byte loginAttempts=5;
+        System.out.print("Login: ");
+        String login = scanner.next();
+        System.out.print("Password: ");
+        String password = scanner.next();
+        if (inputValidation(login, password)){
+            return true;
+        }
+        while(!inputValidation(login, password)){
+            loginAttempts--;
+            System.out.println("wrong login or password\n");
+            if (loginAttempts==0){
+                System.out.println("Access closed!!!!!!!");
+                break;
+            }else{
+                System.out.println(loginAttempts+" login attempts left");
             }
-        } while (x!=1);
+            System.out.println("enter your login again: ");
+            login= scanner.next();
+            System.out.println("enter your password again: ");
+            password=scanner.next();
+        }
+        return false;
     }
 }
