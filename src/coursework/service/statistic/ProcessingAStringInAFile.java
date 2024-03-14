@@ -1,7 +1,7 @@
 package coursework.service.statistic;
 
-import coursework.logger.LogRecorder;
 import coursework.util.constant.ICurrency;
+import coursework.logger.LogRecorder;
 
 import java.io.IOException;
 import java.util.regex.Matcher;
@@ -17,7 +17,7 @@ import static coursework.util.constant.ILogMessages.COMPLETE_INFO_MES_LOGS;
  * each string that the previous three methods find and multiplies by the value that are stored
  * in currency transfer constants.
  */
-public class ProcessingAStringInAFile {
+public class ProcessingAStringInAFile extends FileWithStatistic implements ICurrency {
 
     public static double searchForCheckAmount(String str) throws IOException {
         double num = currencyTransfer(str);

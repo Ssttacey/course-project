@@ -1,7 +1,7 @@
 package coursework.service.fileDescription;
 
-import coursework.logger.LogRecorder;
 import coursework.util.constant.IFolderPath;
+import coursework.logger.LogRecorder;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import static coursework.util.constant.ILogMessages.COMPLETE_INFO_MES_LOGS;
 /**
  *The invalidFiles method sorts files and puts all invalid files in a separate folder
  */
-public class InvalidFiles {
+public class InvalidFiles implements IFolderPath {
 
     public static void invalidFiles(File file) throws IOException {
 

@@ -1,6 +1,5 @@
 package coursework.util.filePath;
 
-import coursework.logger.LogRecorder;
 import coursework.service.fileDescription.FileChecking;
 import coursework.service.fileDescription.InvalidFiles;
 import coursework.service.fileDescription.path.CheckingPath;
@@ -10,12 +9,10 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Objects;
 
-import static coursework.util.constant.ILogMessages.WRONG_LOGS_MES;
-
 /**
  * the Order class contains a method that opens the Order folder
  */
-public class Order{
+public class Order extends FileChecking {
 
     public static LinkedList<File> openingOrders(String path) throws IOException {
         String wayOrders = path + "//orders";

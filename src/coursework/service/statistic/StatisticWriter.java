@@ -1,6 +1,8 @@
 package coursework.service.statistic;
 
+import coursework.util.constant.IFolderPath;
 import coursework.logger.LogRecorder;
+import coursework.runner.Runner;
 import coursework.util.filePath.Check;
 import coursework.util.filePath.Invoice;
 import coursework.util.filePath.Order;
@@ -15,7 +17,7 @@ the StatisticWriter class contains three methods, separate for each type of file
 methods sumChecks, sumInvoices, sumOrders open files
  */
 
-public class StatisticWriter {
+public class StatisticWriter extends Runner implements IFolderPath {
 
     public static double sumChecks(String path) throws IOException {
         Check.openingChecks(path);

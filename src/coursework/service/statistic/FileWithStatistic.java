@@ -1,7 +1,7 @@
 package coursework.service.statistic;
 
-import coursework.logger.LogRecorder;
 import coursework.util.constant.IFolderPath;
+import coursework.logger.LogRecorder;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import static coursework.util.constant.ILogMessages.COMPLETE_INFO_MES_LOGS;
  * the FileWithStatistic class contains a method
  * fileWithStatistic, which sums the values and writes all statistics to a separate file
  */
-public class FileWithStatistic {
+public class FileWithStatistic extends StatisticWriter {
 
     public static void fileWithStatistic(String path) throws IOException {
 

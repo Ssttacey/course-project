@@ -1,8 +1,8 @@
 package coursework.runner;
 
-import coursework.entrance.Entrance;
 import coursework.service.fileDescription.path.EnterThePath;
 import coursework.service.statistic.FileWithStatistic;
+import coursework.entrance.Entrance;
 
 import java.io.IOException;
 

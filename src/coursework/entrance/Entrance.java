@@ -1,18 +1,12 @@
 package coursework.entrance;
 
-import coursework.logger.LogRecorder;
 import coursework.util.constant.IInputValidation;
-import coursework.util.constant.ILogMessages;
-import coursework.util.constant.ILogsPath;
+import coursework.logger.LogRecorder;
+import coursework.runner.Runner;
 
 import java.io.IOException;
-import java.util.Date;
 import java.util.Objects;
 import java.util.Scanner;
-import java.util.logging.FileHandler;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
 
 import static coursework.util.constant.ILogMessages.*;
 
@@ -23,7 +17,7 @@ import static coursework.util.constant.ILogMessages.*;
  * The loginAndPassword method asks the user for a password and login using the scanner class.
  * To compare them, the inputValidation method is called.
  */
-public class Entrance {
+public class Entrance extends Runner implements IInputValidation {
 
     private static boolean inputValidation(String login, String password) {
         if (Objects.equals(login, IInputValidation.login)) {

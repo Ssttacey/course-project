@@ -1,0 +1,408 @@
+Thu Mar 14 17:13:36 MSK 2024 - > Process start 
+Thu Mar 14 17:14:01 MSK 2024 - > Process complete Program closed
+Thu Mar 14 17:14:08 MSK 2024 - > Process start 
+Thu Mar 14 17:14:37 MSK 2024 - > Process complete  File entered
+Thu Mar 14 17:14:37 MSK 2024 - > Process complete reading checks 
+Thu Mar 14 17:14:37 MSK 2024 - > Process complete reading invoices 
+Thu Mar 14 17:14:37 MSK 2024 - > Process complete reading orders 
+Thu Mar 14 17:14:37 MSK 2024 - > Process complete Creating statistic 
+Thu Mar 14 17:14:37 MSK 2024 - > Process complete : program completed successfully 
+Thu Mar 14 17:14:47 MSK 2024 - > Process start 
+Thu Mar 14 17:14:51 MSK 2024 - > Process complete Login done
+Thu Mar 14 17:16:09 MSK 2024 - > Process complete  File entered
+Thu Mar 14 17:16:09 MSK 2024 - > Process complete reading checks 
+Thu Mar 14 17:16:09 MSK 2024 - > Process complete reading invoices 
+Thu Mar 14 17:16:09 MSK 2024 - > Process complete reading orders 
+Thu Mar 14 17:16:09 MSK 2024 - > Process complete Creating statistic 
+Thu Mar 14 17:16:09 MSK 2024 - > Process complete : program completed successfully 
+Thu Mar 14 17:16:28 MSK 2024 - > Process start 
+Thu Mar 14 17:16:33 MSK 2024 - > Process complete Login done
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete  File entered
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete reading checks 
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:35 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete :Invalid files have been moved to a separate folder
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Converting currency 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete reading invoices 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete reading orders 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete Creating statistic 
+Thu Mar 14 17:16:36 MSK 2024 - > Process complete : program completed successfully 

@@ -1,11 +1,8 @@
 package coursework.service.fileDescription;
 
-import coursework.logger.LogRecorder;
+import coursework.service.statistic.ProcessingAStringInAFile;
 
 import java.io.File;
-import java.io.IOException;
-
-import static coursework.util.constant.ILogMessages.COMPLETE_INFO_MES_LOGS;
 
 /**
  *the FileChecking class contains three methods for sorting files.
@@ -15,7 +12,7 @@ import static coursework.util.constant.ILogMessages.COMPLETE_INFO_MES_LOGS;
  * The fileStructureCheck method checks whether file names are spelled correctly and whether there are any typos.
  *  all checked files accept fileIsTrue and save these values.
  */
-public class FileChecking {
+public class FileChecking extends ProcessingAStringInAFile {
 
     private static boolean fileTypeCheck(File file){
         return file.getName().endsWith(".txt");

@@ -1,6 +1,5 @@
 package coursework.util.filePath;
 
-import coursework.logger.LogRecorder;
 import coursework.service.fileDescription.FileChecking;
 import coursework.service.fileDescription.InvalidFiles;
 import coursework.service.fileDescription.path.CheckingPath;
@@ -10,13 +9,11 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Objects;
 
-import static coursework.util.constant.ILogMessages.WRONG_LOGS_MES;
-
 /**
  * the check class contains a method that opens the checks folder
  */
 
-public class Check {
+public class Check extends FileChecking {
 
     public static LinkedList<File> openingChecks(String path) throws IOException {
         String wayChecks = path + "//checks";

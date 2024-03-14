@@ -1,6 +1,5 @@
 package coursework.logger;
 
-import coursework.util.constant.ILogMessages;
 import coursework.util.constant.ILogsPath;
 
 import java.io.IOException;
@@ -8,10 +7,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.Date;
-import java.util.logging.FileHandler;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
 
 /**
  * The logger class contains three methods that are used to record information about errors

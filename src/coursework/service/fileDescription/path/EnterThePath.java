@@ -14,7 +14,7 @@ import static coursework.util.constant.ILogMessages.WRONG_LOGS_MES;
  * The enterThePath method prompts the user to enter the path to the files.
  * the pathChecking method checks whether the specified path actually exists
  */
-public class EnterThePath {
+public class EnterThePath extends CheckingPath {
     public static String enterThePath() throws IOException {
         Scanner scanner=new Scanner(System.in);
         System.out.print("enter the path to the folder: ");
