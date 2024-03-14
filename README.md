@@ -9,7 +9,8 @@ The program implements saving logs into a separate file.
 There is a division of logs: for storing general information and for storing error information.
 Statistics we take into account:
 - total turnover for the year
-- total turnover for all invoices
-- total turnover for all orders
-- total turnover for all checks
-  Based on the results of the program, statistics are loaded into a separate file.
+- total turnover for all invoices;
+- total turnover for all orders;
+- total turnover for all checks;
+  
+Based on the results of the program, statistics are loaded into a separate file.
